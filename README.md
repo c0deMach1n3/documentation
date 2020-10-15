@@ -17,17 +17,20 @@ The website of placement provides information regarding placement procedure and 
 ## INSTALLATION:  
 One can see the source code by inspect and can see the source code.
 
-USAGE: Here I'm sending link of the webpage of the Placement Cell of IIIT Lucknow.
+## USAGE: 
+Here I'm sending link of the webpage of the Placement Cell of IIIT Lucknow.
 
-     Link:https://placements.iiitl.ac.in/#/;
+Link: [Placements-IIITL](https://placements.iiitl.ac.in/#/)
      
-CONTRIBUTING: One can contribute through open source environment via github in my account .
-              One can do innovative changes and can send it to me and if his/her changes are good,then they can be merged in
+## CONTRIBUTING: 
+  One can contribute through open source environment via github in my account .
+              > One can do innovative changes and can send it to me and if his/her changes are good,then they can be merged in
               the main website.
               
- Credits of Project/Website:  
-          DIVY KHARE:  https://www.linkedin.com/in/divy-khare-63a398172/
-          VAIBHAV GUPTA : https://www.linkedin.com/in/vaibhavgupta79/ 
+ ## Credits of Project/Website:  
+   DIVY KHARE:  [LinkedIn](https://www.linkedin.com/in/divy-khare-63a398172/)
+   VAIBHAV GUPTA : [LinkedIn](https://www.linkedin.com/in/vaibhavgupta79/) 
               
-  License  and proper manner to do PR:    I want it simple and permissive.
-                                          Always create the new branch for the pull request so that i can easily view one's
+ ## License  and proper manner to do PR:    
+ I want it simple and permissive.
+ > Always create the new branch for the pull request so that i can easily view one's
