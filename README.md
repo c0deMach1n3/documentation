@@ -1,14 +1,21 @@
-# documentation
+# Documentation
 
-PROJECT NAME: Documentation of Webpage of Placement cell of IIIT Lucknow.
 
-DESCRIPTION:  The website of placement provides information regarding placement procedure and criteria .
+
+## Project Title:
+
+### Documentation of Webpage of Placement cell of IIIT Lucknow.
+
+## Description
+
+The website of placement provides information regarding placement procedure and criteria .
               The Training & Placement Cell works diligently to provide a workable environment to the Students that 
               enables them to understand the requirements of corporate & Industrial world. Its aim is to find an appropriate
               place for students in the corporate. The Cell continuously explore different areas of opportunities in the field
-              of IT for Placement.
- 
-INSTALLATION:  One can see the source code by inspect and can see the source code.
+              of IT for Placement
+
+## INSTALLATION:  
+One can see the source code by inspect and can see the source code.
 
 USAGE: Here I'm sending link of the webpage of the Placement Cell of IIIT Lucknow.
 
@@ -24,10 +31,3 @@ CONTRIBUTING: One can contribute through open source environment via github in m
               
   License  and proper manner to do PR:    I want it simple and permissive.
                                           Always create the new branch for the pull request so that i can easily view one's
-                                          opinion.
- 
-              
-      
-              
-              
-            
